@@ -1,3 +1,3 @@
 pwd
 ls
-mkdir abc
+echo "hi"
